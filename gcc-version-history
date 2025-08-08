@@ -1,4 +1,5 @@
 -- version history (by release number) --
+15.2                          	2025-Aug-08
 15.1                          	2025-Apr-04
 14.3                          	2025-May-05
 14.2                          	2024-Aug-08
@@ -230,6 +231,7 @@
 
 
 -- version history (by date) --
+2025-Aug-08                   	15.2
 2025-Jul-07                   	12.5
 2025-Jun-06                   	13.4
 2025-May-05                   	14.3
